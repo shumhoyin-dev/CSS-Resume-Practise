@@ -79,6 +79,23 @@ table {
   padding-top: 40px;
 }
 
+.credit {
+  background-color: #A00404;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.credit a:active {
+  color: white;
+}
+
+.credit a:visited {
+  color: white;
+}
+
 .name {
   border-bottom: 2px solid black;
   padding-bottom: 24px;
